@@ -17,7 +17,7 @@ Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, 
 <ul>
   **Para esse desafio temos os seguintes testes:**
 
-<li>**should be able to add new repository**: Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.</li>
+<li><strong>should be able to add new repository:</strong> Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.</li>
 
-<li>**should be able to remove repository**: Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem.</li>
+<li><strong>should be able to remove repository:</strong> Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem.</li>
 </ul>
