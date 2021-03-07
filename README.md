@@ -15,7 +15,7 @@ Em cada teste, tem uma breve descrição no que sua aplicação deve cumprir par
 Caso você tenha dúvidas quanto ao que são os testes, e como interpretá-los, dê uma olhada em nosso FAQ.
 
 <ul>
-  **Para esse desafio temos os seguintes testes:**
+  Para esse desafio temos os seguintes testes:
 
 <li><strong>should be able to add new repository:</strong> Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.</li>
 
