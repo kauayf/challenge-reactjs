@@ -1,7 +1,6 @@
 <h1>Desafio de ReactJS Feito por RocketSeat 🚀</h1>
 
 <h4><strong>Funcionalidades da aplicação</strong></h4>
-Agora que você já está com o template clonado, e pronto para continuar, você deve abrir o arquivo src/App.js, e completar onde não possui código com o código para atingir os objetivos de cada funcionalidade.
 
 <strong>Listar os repositórios da sua API:</strong> Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
 
