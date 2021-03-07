@@ -13,9 +13,9 @@
 <ul>
   <strong>Para esse desafio temos os seguintes testes:</strong>
 
-<li><strong>should be able to add new repository:</strong> Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.<li>
+<li><strong>should be able to add new repository:</strong> Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.</li>
 
-<li><strong>should be able to remove repository:</strong> Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem.<li>
+<li><strong>should be able to remove repository:</strong> Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem.</li>
 </ul>
 
 <h6>Para iniciar basta digitar <strong>yarn</strong> para instalar as dependências e depois <strong>yarn test</strong> para rodar os testes<h6>
