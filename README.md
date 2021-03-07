@@ -1,6 +1,6 @@
 <h1>Desafio de ReactJS Feito por RocketSeat 🚀</h1>
 
-<h4><strong>Funcionalidades da aplicação</strong></h4>
+<h2><strong>Funcionalidades da aplicação</strong></h4>
 
 <strong>Listar os repositórios da sua API:</strong> Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.
 
