@@ -1,21 +1,42 @@
-<h1>Desafio de ReactJS Feito por RocketSeat 🚀</h1>
+# Desafio de ReactJS RocketSeat 🚀
 
-<h2><ul><strong>Funcionalidades da aplicação</strong></ul></h4>
 
-<li><strong>Listar os repositórios da sua API:</strong> Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.</li>
+##  ✅ Funcionalidades da aplicação
 
-<li><strong>Adicionar um repositório a sua API:</strong> Deve ser capaz de adicionar um novo item na sua API através de um botão com o texto Adicionar e, após a criação, deve ser capaz de exibir o nome dele após o cadastro.</li>
+- [x] ```Listar os repositórios da sua API:``` Deve ser capaz de criar uma lista com o campo title de todos os repositórios que estão cadastrados na sua API.</li>
 
-<li><strong>Remover um repositório da sua API</strong>: Para cada item da sua lista, deve possuir um botão com o texto Remover que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.</li>
+- [x] ```Adicionar um repositório a sua API:``` Deve ser capaz de adicionar um novo item na sua API através de um botão com o texto Adicionar e, após a criação, deve ser capaz de exibir o nome dele após o cadastro
 
-<h2>Específicação dos testes</h2>
+##  ✅ Testes
 
-<ul>
-  <strong>Para esse desafio temos os seguintes testes:</strong>
+- [x] ```should be able to add new repository:``` Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.
 
-<li><strong>should be able to add new repository:</strong> Para que esse teste passe, sua aplicação deve permitir que um repositório seja adicionado ao seu backend e listado no seu frontend dentro de uma LI.</li>
+- [x] ```should be able to remove repository:``` Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem. 
 
-<li><strong>should be able to remove repository:</strong> Para que esse teste passe, sua aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da LI do repositório adicionado, o item seja removido da listagem.</li>
-</ul>
+#### 🛠 Tecnologias
 
-<h6>Para iniciar basta digitar <strong>yarn</strong> para instalar as dependências e depois <strong>yarn test</strong> para rodar os testes</h6>
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [Insomnia](https://insomnia.rest/products/insomnia)
+
+#### Clonando o projeto
+```sh
+$ git clone https://github.com/kauayf/desafio-reactjs.git
+$ cd desafio-reactjs
+```
+
+#### Iniciando Testes
+```sh
+$ yarn test
+```
+
+
+### :memo: Licença
+
+Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
+
+<p align="center" style="margin-top: 20px; border-top: 1px solid #eee; padding-top: 20px;">Feito com 💙 by <strong>  🌠 Kauay Felipe 🌠 </strong> </p>
+
+ 
+[![The MIT License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](http://github.com/jvictorfarias/gobarber/LICENSE.md)
