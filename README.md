@@ -19,6 +19,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/products/insomnia)
+- [ReactJS](https://pt-br.reactjs.org/)
 
 #### Clonando o projeto
 ```sh
